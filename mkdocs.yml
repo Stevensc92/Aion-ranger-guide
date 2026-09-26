@@ -1,0 +1,26 @@
+site_name: Guide Aion 2
+site_description: Guide PvE
+
+theme:
+  name: material
+  language: fr
+
+  features:
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Guide: guides.md
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
