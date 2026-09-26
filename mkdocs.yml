@@ -1,5 +1,6 @@
 site_name: Guide Aion 2
-site_description: Guide PvE
+site_description: Guide PvE Aion 2 Ranger
+site_url: https://stevensc92.github.io/Aion-ranger-guide/
 
 theme:
   name: material
@@ -14,8 +15,7 @@ theme:
     - search.highlight
 
 nav:
-  - Accueil: index.md
-  - Guide: guides.md
+  - Guide: index.md
 
 markdown_extensions:
   - attr_list
