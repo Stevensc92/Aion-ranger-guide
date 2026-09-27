@@ -1,5 +1,7 @@
 # Macro
 
+!!! info "Version non définitive"
+
 ## Positionnement des sorts
 
 ![Positionnement des sorts](../images/macro-positionnement.png)

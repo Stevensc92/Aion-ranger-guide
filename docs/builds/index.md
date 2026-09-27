@@ -1,9 +1,11 @@
 # Builds PvE
+!!! info "En cours de rédaction"
+    Section en cours de rédaction, ici figureront les builds (stuffs, arcanas, etc.) à aller chercher. Les builds seront réalisés à l'aide d'un site externe et seront disponible ici une fois ceux-ci terminés.
 
-## Orienté survie
+## Early Game
 
-![Build orienté survie](../images/build-survie.png)
+*À venir...*
 
-## Orienté DPS
+## Late Game
 
-![Build orienté DPS](../images/build-dps.png)
+*À venir...*

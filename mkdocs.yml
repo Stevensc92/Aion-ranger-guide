@@ -1,4 +1,4 @@
-site_name: Guide Aion 2
+site_name: Guide Aion 2 Ranger
 site_description: Guide PvE Aion 2 Ranger
 site_url: https://stevensc92.github.io/Aion-ranger-guide/
 
@@ -18,14 +18,13 @@ nav:
   - Accueil: index.md
   - Leveling:
     - Guide 1-45: leveling/index.md
+    - Daevanion: leveling/daevanion.md
   - Skills:
     - Compétences & Spécialités: skills/index.md
   - Build:
     - Builds PvE: builds/index.md
   - Gameplay:
     - Macro: gameplay/macro.md
-  - Daevanion:
-    - Daevanion: daevanion/index.md
 
 markdown_extensions:
   - attr_list

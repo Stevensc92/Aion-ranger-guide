@@ -40,6 +40,13 @@ Pensez également à réaliser vos **donjons scellés** et **Stronghold**.
     pendant le leveling **1 à 45**.  
     Je conseillerais également d'acheter des **Wisdom Stone** (points de skills) dès que possible afin de monter au maximum possible vos sorts par les points (level 10 max avec les points de sorts)
 
+!!! tip "Niveau des sorts actifs"
+    Il est important de savoir qu'un sort actif, comme dit ci-dessus, ce monte **level 10** au maximum par le biais des points de sorts.  
+    Les Daevanions octroient **4 niveaux** supplémentaires sur vos sorts actifs.  
+    Vous pouvez également récupérer **2 niveaux** supplémentaires via les soulbinds/traits sur les anneaux. Les anneaux sont les seuls (avec les armes) équipements vous permettant de choisir des sorts actifs.  
+    Avec ceci cela propulse déjà quelques sorts actifs au **niveau 16** ce qui est un minimum syndical à aller chercher pour les sorts importants.  
+    Les **Arcanas** sont là pour "terminer" et augmenter vos sorts actif au level **20**.
+
 ### Priorité générale
 
 Pendant le leveling, évitez de répartir vos points uniformément entre toutes
@@ -58,12 +65,12 @@ Voici les principaux objectifs à viser :
 
 | Compétence | Niveau conseillé |
 |---|:---:|
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/snare-shot.png" class="skill-icon"> **Snare Shot**</span> | **12** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/snare-shot.png" class="skill-icon"> **Snare Shot**</span> | **8-12-+** |
 | <span class="skill-cell"><img src="../assets/skills/ranger/active/marking-shot.png" class="skill-icon"> **Marking Shot**</span> | **8–12** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/drill-dart.png" class="skill-icon"> **Drill Dart**</span> | **À monter progressivement** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/gale-arrow.png" class="skill-icon"> **Gale Arrow**</span> | **12** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/burst-arrow.png" class="skill-icon"> **Burst Arrow**</span> | **12** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/deadshot.png" class="skill-icon"> **Deadshot**</span> | **12** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/drill-dart.png" class="skill-icon"> **Drill Dart**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/gale-arrow.png" class="skill-icon"> **Gale Arrow**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/burst-arrow.png" class="skill-icon"> **Burst Arrow**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/deadshot.png" class="skill-icon"> **Deadshot**</span> | **8-12-+** |
 
 !!! tip "Marking Shot"
     **Marking Shot** peut dans un premier temps être conservé au **niveau 8**.
@@ -91,18 +98,22 @@ différents passifs ainsi que leur ordre de priorité dans la section dédiée :
 
 Au début de la version Global on aura maximum 4 slots de stigma et voici ceux à prioriser dans l'ordre : 
 
-- <img src="../assets/skills/ranger/stigma/vaizels-authority.png" alt="Vaizel's Authority" class="skill-icon"> **Vaizel's Authority**
-- <img src="../assets/skills/ranger/stigma/bow-of-blessing.png" alt="Bow Of Blessing" class="skill-icon"> **Bow of Blessing**
-- <img src="../assets/skills/ranger/stigma/supporting-fire.png" alt="Supporting Fire" class="skill-icon"> **Supporting Fire**
+| Compétence | Info comp. |
+|---|:---:|
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/vaizels-authority.png" alt="Vaizel's Authority" class="skill-icon"> **Vaizel's Authority**</span> | **Buff** qui augmente votre **attaque de 20%**, votre taux de **perfect chance** de **10%**, l'efficacité de **Focused Eye** et **Hunter's Soul** par **1.5** et la possibilité (**50%**) de **réduire tout vos CD de 1sec** lors d'un coup critique. |
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/bow-of-blessing.png" alt="Bow Of Blessing" class="skill-icon"> **Bow of Blessing**</span> | **Buff** qui augmente votre **taux de critique par 200** et **précision par 100**, ajoutant **50% de multi-hit**, augmentant votre **attaque** proportionnellement à votre **taux de critique**, vos **dégâts critiques** et **7%** de chance de **double hit** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/supporting-fire.png" alt="Supporting Fire" class="skill-icon"> **Supporting Fire**</span> | **Sort DPS passif** invoquant une **orbe** ayant une probabilité de **25%** (jusqu'à **50%**) de faire des dégâts sur votre cible. |
 
 Vous serez normalement capable de les monter au moins **level 5** pour débloquer la première spécialité, sur chaque, avant de passer au suivant.
 
 Pour le quatrième slot vous pouvez l'adapter selon vos envies et moment (à savoir que vous pouvez réinitialiser à tout moment les niveaux de stigma) :
 
-- <img src="../assets/skills/ranger/stigma/griffon-arrow.png" alt="Vaizel's Authority" class="skill-icon"> **Griffon Arrow** → choix offensif/DPS.
-- <img src="../assets/skills/ranger/stigma/explosive-arrow.png" alt="Explosive Arrow" class="skill-icon"> **Explosive Arrow** → DPS, notamment intéressant avec Slow/Root.
-- <img src="../assets/skills/ranger/stigma/ambush-kick.png" alt="Ambush Kick" class="skill-icon"> **Ambush Kick** → mobilité/survie/repositionnement.
-- <img src="../assets/skills/ranger/stigma/mother-natures-breath.png" alt="Mother Nature's Breath" class="skill-icon"> **Mother Nature's Breath** → défensif/survie.
+| Compétence | Info comp. |
+|---|:---:|
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/griffon-arrow.png" alt="Vaizel's Authority" class="skill-icon"> **Griffon Arrow**</span> | **Choix offensif/DPS**, infligeant également des dégâts sur la durée (DoT) |
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/explosive-arrow.png" alt="Explosive Arrow" class="skill-icon"> **Explosive Arrow**</span> | **DPS**, notamment intéressant avec **Slow/Root.** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/ambush-kick.png" alt="Ambush Kick" class="skill-icon"> **Ambush Kick**</span> | **Mobilité/survie/repositionnement.** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/mother-natures-breath.png" alt="Mother Nature's Breath" class="skill-icon"> **Mother Nature's Breath**</span> | **Défensif/survie** |
 
 ### Objectif niveau 45
 
