@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 14020000,
+    "name": "Snipe",
+    "name_kr": "저격",
+    "name_tw": "狙擊",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 1,
+    "sort_order": 1,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "+20% MP restored"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "Absorbs 0.7% HP"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "+50% Multi-Hit on hit"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "-1s [Deadshot] cooldown on hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "Adds [Tempest Arrow] Chain Skill 04 Chain Snipe 1 / 3 → Rapid Fire 2 / 3 → Spiral Arrow 3 / 3"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/snipe.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_001.png",
+    "detail_source": "https://gegebase.com/games/aion2/snipe"
+  },
+  {
+    "id": 14340000,
+    "name": "Tempest Shot",
+    "name_kr": "속사",
+    "name_tw": "速射",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 1,
+    "sort_order": 2,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "-20% MP consumed"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+10% skill Critical Hit"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Deals up to 12% more damage when less targets are hit"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "5% chance to inflict Knock Back on Critical Hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "+20% Skill Speed"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/tempest-shot.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_034.png",
+    "detail_source": "https://gegebase.com/games/aion2/tempest_shot"
+  },
+  {
+    "id": 14130000,
+    "name": "Snare Shot",
+    "name_kr": "올가미 화살",
+    "name_tw": "套索箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 1,
+    "sort_order": 3,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "+20% Move Speed reduction"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+20% Skill Speed"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Changes to mobile skill"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "Adds [Shackling Arrow] Chain Skill"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "+2s Slow and Root duration"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/snare-shot.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_013.png",
+    "detail_source": "https://gegebase.com/games/aion2/snare_shot"
+  },
+  {
+    "id": 14090000,
+    "name": "Marking Shot",
+    "name_kr": "표적 화살",
+    "name_tw": "目標箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 3,
+    "sort_order": 4,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "+5% Perfect Chance for the duration"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "30% chance to inflict Knock Back on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "+5s duration"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "+1 consecutive use"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "Ignores Block and Evasion and lands as a Critical Hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/marking-shot.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_031.png",
+    "detail_source": "https://gegebase.com/games/aion2/marking_shot"
+  },
+  {
+    "id": 14050000,
+    "name": "Drill Dart",
+    "name_kr": "송곳 화살",
+    "name_tw": "利錐箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 4,
+    "sort_order": 5,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "Absorbs 3% HP"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+2s Bleed duration"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "+20% Skill Speed"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "Multi-Hit on hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "Activates [Drill Dart] 1 extra time"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/drill-dart.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_005.png",
+    "detail_source": "https://gegebase.com/games/aion2/drill_dart"
+  },
+  {
+    "id": 14330000,
+    "name": "Arrow Scattershot",
+    "name_kr": "화살 난사",
+    "name_tw": "箭矢掃射",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 5,
+    "sort_order": 6,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "Absorbs 5% HP"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "Restores 120 MP on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Changes to mobile skill"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "Multi-Hit on hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "-1 all cooldowns on hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/arrow-scattershot.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_033.png",
+    "detail_source": "https://gegebase.com/games/aion2/arrow_scattershot"
+  },
+  {
+    "id": 14110000,
+    "name": "Gale Arrow",
+    "name_kr": "광풍 화살",
+    "name_tw": "狂風箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 7,
+    "sort_order": 7,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "+5s duration"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "50% chance to inflict Knock Back on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Changes to mobile skill"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "Increases Combat Speed, PvE Damage Boost, and PvP Damage Boost when less targets hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "-10s cooldown"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/gale-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_011.png",
+    "detail_source": "https://gegebase.com/games/aion2/gale_arrow"
+  },
+  {
+    "id": 14170000,
+    "name": "Explosion Trap",
+    "name_kr": "폭발의 덫",
+    "name_tw": "爆炸圈套",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 8,
+    "sort_order": 8,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "Pulls enemies on explosion"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+1s Stun duration"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Extra damage after 3s on hit"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "+20% Stun Chance"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "+1 consecutive use"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/explosion-trap.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_017.png",
+    "detail_source": "https://gegebase.com/games/aion2/explosion_trap"
+  },
+  {
+    "id": 14080000,
+    "name": "Burst Arrow",
+    "name_kr": "파열 화살",
+    "name_tw": "破裂箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 10,
+    "sort_order": 9,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "Absorbs 10% HP"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+50% Multi-Hit on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Changes to mobile skill"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "Up to +20% damage when less targets hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "25% chance to reset cooldown on hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/burst-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_008.png",
+    "detail_source": "https://gegebase.com/games/aion2/burst_arrow"
+  },
+  {
+    "id": 14070000,
+    "name": "Suppressing Arrow",
+    "name_kr": "제압 화살",
+    "name_tw": "壓制箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 12,
+    "sort_order": 10,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "+50% Multi-Hit on hit"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+1s Stun duration"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "+20% Skill Speed"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "+20% Stun Chance"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "25% chance to reset cooldown on hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/suppressing-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_007.png",
+    "detail_source": "https://gegebase.com/games/aion2/suppressing_arrow"
+  },
+  {
+    "id": 14010000,
+    "name": "Deadshot",
+    "name_kr": "조준 화살",
+    "name_tw": "瞄準箭",
+    "translation_source": "id+kr",
+    "type": "active",
+    "scope": "ranger",
+    "required_character_level": 14,
+    "sort_order": 11,
+    "max_level": 3,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "Removes MP consumed"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "+30% Skill Speed"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Changes to mobile skill"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "Ignores Block and Evasion and lands as Multi-Hit"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "[Deadshot] grants extra damage on hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/deadshot.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_002.png",
+    "detail_source": "https://gegebase.com/games/aion2/deadshot"
+  },
+  {
+    "id": 14260000,
+    "name": "Defiance",
+    "name_kr": "충격 해제",
+    "name_tw": "衝擊解除",
+    "translation_source": "kr",
+    "type": "active",
+    "scope": "common",
+    "required_character_level": 16,
+    "sort_order": 12,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 8,
+        "description": "Adds [Lightning Arrow] Chain Skill"
+      },
+      {
+        "index": 2,
+        "required_level": 8,
+        "description": "Restores 1000 Stamina on using [Defiance]"
+      },
+      {
+        "index": 3,
+        "required_level": 8,
+        "description": "Restores 20% HP on using [Defiance]"
+      },
+      {
+        "index": 4,
+        "required_level": 12,
+        "description": "+2s Tenacity duration"
+      },
+      {
+        "index": 5,
+        "required_level": 16,
+        "description": "+50% PvE Damage Tolerance and +25% PvP Damage Tolerance for Tenacity duration"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/active/defiance.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_CO_SKILL_002.png",
+    "detail_source": "https://gegebase.com/games/aion2/defiance_ranger"
+  },
+  {
+    "id": 14710000,
+    "name": "Vigilant Eye",
+    "name_kr": "경계의 눈",
+    "name_tw": "警戒之眼",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 1,
+    "sort_order": 1,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/vigilant-eye.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_004.png",
+    "detail_source": "https://gegebase.com/games/aion2/vigilant_eye"
+  },
+  {
+    "id": 14720000,
+    "name": "Concentrated Fire",
+    "name_kr": "집중 포화",
+    "name_tw": "集中砲火",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 6,
+    "sort_order": 2,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/concentrated-fire.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_003.png",
+    "detail_source": "https://gegebase.com/games/aion2/concentrated_fire"
+  },
+  {
+    "id": 14730000,
+    "name": "Wind Vigor",
+    "name_kr": "바람의 활력",
+    "name_tw": "風之活力",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 9,
+    "sort_order": 3,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/wind-vigor.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_006.png",
+    "detail_source": "https://gegebase.com/games/aion2/wind_vigor"
+  },
+  {
+    "id": 14740000,
+    "name": "Focused Eye",
+    "name_kr": "집중의 눈",
+    "name_tw": "集中之眼",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 11,
+    "sort_order": 4,
+    "max_level": null,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/focused-eye.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_001.png",
+    "detail_source": "https://gegebase.com/games/aion2/focused_eye"
+  },
+  {
+    "id": 14750000,
+    "name": "Hunter's Resolve",
+    "name_kr": "사냥꾼의 결의",
+    "name_tw": "獵人決心",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 13,
+    "sort_order": 5,
+    "max_level": null,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/hunters-resolve.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_011.png",
+    "detail_source": "https://gegebase.com/games/aion2/hunter_s_resolve"
+  },
+  {
+    "id": 14760000,
+    "name": "Unyielding Resolve",
+    "name_kr": "저항의 결의",
+    "name_tw": "抵抗決心",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 15,
+    "sort_order": 6,
+    "max_level": null,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/unyielding-resolve.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_012.png",
+    "detail_source": "https://gegebase.com/games/aion2/unyielding_resolve"
+  },
+  {
+    "id": 14770000,
+    "name": "Rooting Eye",
+    "name_kr": "속박의 눈",
+    "name_tw": "束縛之眼",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 17,
+    "sort_order": 7,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/rooting-eye.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_008.png",
+    "detail_source": "https://gegebase.com/games/aion2/rooting_eye"
+  },
+  {
+    "id": 14780000,
+    "name": "Melee Fire",
+    "name_kr": "근접 사격",
+    "name_tw": "近距離射擊",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 21,
+    "sort_order": 8,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/melee-fire.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_013.png",
+    "detail_source": "https://gegebase.com/games/aion2/melee_fire"
+  },
+  {
+    "id": 14790000,
+    "name": "Revitalization Contract",
+    "name_kr": "회생의 계약",
+    "name_tw": "回生契約",
+    "translation_source": "kr",
+    "type": "passive",
+    "scope": "shared",
+    "required_character_level": 23,
+    "sort_order": 9,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/revitalization-contract.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_AS_SKILL_Passive_009.png",
+    "detail_source": "https://gegebase.com/games/aion2/revitalization_contract_ranger"
+  },
+  {
+    "id": 14800000,
+    "name": "Hunter's Soul",
+    "name_kr": "사냥꾼의 혼",
+    "name_tw": "獵人之魂",
+    "translation_source": "id+kr",
+    "type": "passive",
+    "scope": "ranger",
+    "required_character_level": 25,
+    "sort_order": 10,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [],
+    "icon": "docs/assets/skills/ranger/passive/hunters-soul.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_Passive_007.png",
+    "detail_source": "https://gegebase.com/games/aion2/hunter_s_soul"
+  },
+  {
+    "id": 14270000,
+    "name": "Arrow Storm",
+    "name_kr": "화살 폭풍",
+    "name_tw": "箭矢暴風",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 1,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "Up to +20% max damage when more targets hit"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "Inflicts Slow for 10 on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "+1s Stun duration"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+25% Stun Chance"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "Up to -30s cooldown for [Arrow Storm] based on the number of targets hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/arrow-storm.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_026.png",
+    "detail_source": "https://gegebase.com/games/aion2/arrow_storm"
+  },
+  {
+    "id": 14310000,
+    "name": "Vaizel's Authority",
+    "name_kr": "바이젤의 권능",
+    "name_tw": "白傑爾權能",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 2,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "+10% Perfect Chance for the duration"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "x1.5 [Focused Eye] effect for the duration"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "x1.5 [Hunter's Soul] effect for the duration"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "50% chance to reduce all skill cooldowns by 1 on Critical Hit for the duration"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "+10% Weapon Damage Boost for duration"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/vaizels-authority.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_022.png",
+    "detail_source": "https://gegebase.com/games/aion2/vaizel_s_authority"
+  },
+  {
+    "id": 14220000,
+    "name": "Bow of Blessing",
+    "name_kr": "축복의 활",
+    "name_tw": "祝福之弓",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 3,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "+50% Multi-Hit Chance for duration"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "Increases Attack proportional to Critical Hit for the duration"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "+20 Critical Damage Boost for duration"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+7% Double Chance for the duration"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "+5s duration"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/bow-of-blessing.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_030.png",
+    "detail_source": "https://gegebase.com/games/aion2/bow_of_blessing"
+  },
+  {
+    "id": 14120000,
+    "name": "Ambush Kick",
+    "name_kr": "기습 차기",
+    "name_tw": "突襲踢",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 4,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "+5m Range"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "10% Max HP Protective Shield for 5 on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "50% chance to inflict Stun for 3 on hit"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+50% Stun Chance"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "Increases Protective Shield generated to 20% of Max HP"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/ambush-kick.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_012.png",
+    "detail_source": "https://gegebase.com/games/aion2/ambush_kick"
+  },
+  {
+    "id": 14180000,
+    "name": "Ensnaring Trap",
+    "name_kr": "결박의 덫",
+    "name_tw": "結縛圈套",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 5,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "Adds [Guerilla Strike] Chain Skill"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "Removes up to 2 buffs"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "+1s Airborne duration"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "-30s cooldown"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "Ignores Block and Evasion"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/ensnaring-trap.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_018.png",
+    "detail_source": "https://gegebase.com/games/aion2/ensnaring_trap"
+  },
+  {
+    "id": 14150000,
+    "name": "Illusory Arrow",
+    "name_kr": "환영 화살",
+    "name_tw": null,
+    "translation_source": "verified_override",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 6,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "+1s Blind duration"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "Changes to AoE Skill"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "Inflicts Slow for 5 on hit"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+1 consecutive use"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "Inflict Exposed for 5 on hit"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/illusory-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_015.png",
+    "detail_source": "https://gegebase.com/games/aion2/illusory_arrow"
+  },
+  {
+    "id": 14190000,
+    "name": "Stealth",
+    "name_kr": "은신",
+    "name_tw": "隱身",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 7,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "Critical Hit on attack during Stealth"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "+20% Move Speed for the duration"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "Available in combat"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+10s Stealth duration"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "Grants [On the Hunt] which increases Critical Hit by 1000 for 5 when attacking during Stealth"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/stealth.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_019.png",
+    "detail_source": "https://gegebase.com/games/aion2/stealth"
+  },
+  {
+    "id": 14160000,
+    "name": "Sealing Arrow",
+    "name_kr": "봉인 화살",
+    "name_tw": "封印箭",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 8,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "50% chance to inflict Root for 5 on hit"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "-1000 Max Stamina for 5 on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "+2s Seal duration"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+25% Seal chance"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "Ignores Block and Evasion"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/sealing-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_016.png",
+    "detail_source": "https://gegebase.com/games/aion2/sealing_arrow"
+  },
+  {
+    "id": 14350000,
+    "name": "Mother Nature's Breath",
+    "name_kr": "대자연의 숨결",
+    "name_tw": "大自然吐息",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 9,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "Removes and grants immunity to Damage over Time effects"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "x1.5 [Vigilant Eye] effect for the duration"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "x1.5 [Unyielding Resolve] effect for the duration"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+20% PvE Damage Tolerance increase and +10% PvP Damage Tolerance increase"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "+25% activation chance for Mother Nature's Embrace"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/mother-natures-breath.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_035.png",
+    "detail_source": "https://gegebase.com/games/aion2/mother_nature_s_breath"
+  },
+  {
+    "id": 14060000,
+    "name": "Griffon Arrow",
+    "name_kr": "그리폰 화살",
+    "name_tw": "葛利芬箭",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 10,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "Changes to mobile skill"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "+5s Damage over Time duration"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "Enhanced Crimson Flames - Extra damage when hit while afflicted with Crimson Flames"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "-50% Damage over Time intervals"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "+20% extra damage to targets afflicted with Crimson Flames"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/griffon-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_006.png",
+    "detail_source": "https://gegebase.com/games/aion2/griffon_arrow"
+  },
+  {
+    "id": 14360000,
+    "name": "Explosive Arrow",
+    "name_kr": "폭발 화살",
+    "name_tw": "爆炸箭",
+    "translation_source": "kr",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 11,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "-15s cooldown"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "+10% additional damage to targets afflicted with Slow or Root"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "Critical Hit on hit"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+20% additional damage to targets afflicted with Slow or Root"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "-50% cooldown for [Explosive Arrow] when hitting targets afflicted with Slow or Root"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/explosive-arrow.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_023.png",
+    "detail_source": "https://gegebase.com/games/aion2/explosive_arrow"
+  },
+  {
+    "id": 14700000,
+    "name": "Assault Smite",
+    "name_kr": "강습 강타",
+    "name_tw": "強襲強擊",
+    "translation_source": "id+kr",
+    "type": "stigma",
+    "scope": "common",
+    "required_character_level": 22,
+    "sort_order": 12,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "+20% Attack for 5 on hit"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "500 MP damage on hit"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "+10m Range"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "+20% Stun Chance"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "-1min cooldown"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/assault-smite.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_CO_SKILL_003.png",
+    "detail_source": "https://gegebase.com/games/aion2/assault_smite"
+  },
+  {
+    "id": 14380000,
+    "name": "Supporting Fire",
+    "name_kr": "지원 사격",
+    "name_tw": null,
+    "translation_source": "verified_override",
+    "type": "stigma",
+    "scope": "ranger",
+    "required_character_level": 22,
+    "sort_order": 13,
+    "max_level": 40,
+    "charge_steps": [],
+    "levels": [],
+    "specializations": [
+      {
+        "index": 1,
+        "required_level": 5,
+        "description": "+25% activation chance"
+      },
+      {
+        "index": 2,
+        "required_level": 10,
+        "description": "+15s duration"
+      },
+      {
+        "index": 3,
+        "required_level": 15,
+        "description": "-30s cooldown"
+      },
+      {
+        "index": 4,
+        "required_level": 20,
+        "description": "Critical Hit on hit"
+      },
+      {
+        "index": 5,
+        "required_level": 25,
+        "description": "10% chance to shoot extra projectile"
+      }
+    ],
+    "icon": "docs/assets/skills/ranger/stigma/supporting-fire.png",
+    "source_icon": "https://assets.playnccdn.com/static-aion2-gamedata/resources/ICON_RA_SKILL_038.png",
+    "detail_source": "https://gegebase.com/games/aion2/supporting_fire"
+  }
+]

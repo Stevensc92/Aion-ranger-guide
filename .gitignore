@@ -1,1 +1,9 @@
 site/
+scripts/
+
+__pycache__/
+*.pyc
+
+data/cache/
+data/*.dll
+data/

@@ -15,7 +15,17 @@ theme:
     - search.highlight
 
 nav:
-  - Guide: index.md
+  - Accueil: index.md
+  - Leveling:
+    - Guide 1-45: leveling/index.md
+  - Skills:
+    - Compétences & Spécialités: skills/index.md
+  - Build:
+    - Builds PvE: builds/index.md
+  - Gameplay:
+    - Macro: gameplay/macro.md
+  - Daevanion:
+    - Daevanion: daevanion/index.md
 
 markdown_extensions:
   - attr_list
@@ -24,3 +34,10 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
+
+plugins:
+  - search
+  - include-markdown
+
+extra_css:
+  - stylesheets/extra.css
