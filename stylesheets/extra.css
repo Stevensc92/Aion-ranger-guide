@@ -1,0 +1,27 @@
+.skill-icon {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+}
+
+/* Centre les cellules des tableaux de skills */
+.md-typeset table:has(.skill-icon) th,
+.md-typeset table:has(.skill-icon) td {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+
+/* Groupe icône + nom */
+.skill-cell {
+    display: grid;
+    grid-template-columns: 64px 120px;
+    align-items: center;
+    gap: 8px;
+    width: max-content;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.skill-cell .skill-icon {
+    margin: 0;
+}
