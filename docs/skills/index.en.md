@@ -2,62 +2,62 @@
 
 ## Intro
 
-**Dans cette partie, on voit les différentes spécialités jouables selon les différents styles de jeu.**
+**This section covers the available specializations and how they fit different playstyles.**
 
-Personnellement, je dirais qu'il est cool d'avoir quasi toutes les **compétences actives level 16**.
+Personally, I think it's a good idea to get almost all **active skills to level 16**.
 
-Cela permet de débloquer le dernier niveau de spécialité et d'avoir accès à de meilleures combinaisons de spécialités.
+This unlocks the final specialization tier and gives you access to stronger combinations.
 
 !!! info "Arcanas"
-    Les arcanas offrent une grande possibilité de variations et de *all-in* sur certaines compétences selon votre style de jeu.
+    Arcanas offer plenty of room to vary your setup or go *all-in* on certain skills, depending on your playstyle.
 
-## Passifs
-*Screenshot tiré de mon personnage sur Taiwan*
-![Skills passifs](../images/skills-passifs.png)
+## Passives { #passives }
+*Screenshot of my character in Taiwan.*  
+![Passive skills](../images/skills-passifs.png)
 
-Concernant les skills passifs, il y en a principalement **deux à focus**, il faut donc essayer de les monter au maximum possible (**level 30+** serait un bon objectif à termes):
+There are **two main passive skills** to focus on, so try to raise them as much as possible. **Level 30 or higher** is a good long-term target:
 
-| Compétence | Info comp. |
+| Skill | Details |
 |---|:---:|
-| <span class="skill-cell"><img src="../assets/skills/ranger/passive/focused-eye.png" alt="Focused Eye" class="skill-icon"> **Focused Eye**</span> | Boost les dégats PvE & PvP ainsi que vos chances de **Double Hit** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/passive/hunters-resolve.png" alt="Hunter's Resolve" class="skill-icon"> **Hunter's Resolve**</span> | Boost les dégâts de vos coups critique. |
+| <span class="skill-cell"><img src="../../assets/skills/ranger/passive/focused-eye.png" alt="Focused Eye" class="skill-icon"> **Focused Eye**</span> | Boosts your PvE and PvP damage, as well as your chance to **Double Hit**. |
+| <span class="skill-cell"><img src="../../assets/skills/ranger/passive/hunters-resolve.png" alt="Hunter's Resolve" class="skill-icon"> **Hunter's Resolve**</span> | Boosts the damage of your critical hits. |
 
-Ensuite, vous avez:
+After those, consider:
 
-| Compétence | Info comp. |
+| Skill | Details |
 |---|:---:|
-| <span class="skill-cell"><img src="../assets/skills/ranger/passive/hunters-soul.png" alt="Hunter's Soul" class="skill-icon"> **Hunter's Soul**</span> | **50%** de chance de faire des dégâts supplémentaires lors d'un coup critique. |
-| <span class="skill-cell"><img src="../assets/skills/ranger/passive/concentrated-fire.png" alt="Concentrated Fire" class="skill-icon"> **Concentrated Fire**</span> | Également intéressant pour infliger des dégâts supplémentaires (**50%** de chance aussi) sur des cibles auxquels vous appliquez des **DoT** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/passive/vigilant-eye.png" alt="Vigilant Eye" class="skill-icon"> **Vigilant Eye**</span> | Bien pour un up d'**HP en %** |
+| <span class="skill-cell"><img src="../../assets/skills/ranger/passive/hunters-soul.png" alt="Hunter's Soul" class="skill-icon"> **Hunter's Soul**</span> | **50%** chance to deal additional damage on a critical hit. |
+| <span class="skill-cell"><img src="../../assets/skills/ranger/passive/concentrated-fire.png" alt="Concentrated Fire" class="skill-icon"> **Concentrated Fire**</span> | Also useful for dealing extra damage (**50%** chance) to targets affected by your **DoTs**. |
+| <span class="skill-cell"><img src="../../assets/skills/ranger/passive/vigilant-eye.png" alt="Vigilant Eye" class="skill-icon"> **Vigilant Eye**</span> | Useful for increasing your **HP percentage**. |
 
-Derrière ça, il y a **Melee Fire** et **Rooting Eye** qui peuvent être un "plus", mais que je ne focus pas personnellement contrairement aux trois, voire quatre, premiers cités.
+After that, **Melee Fire** and **Rooting Eye** can be nice bonuses, but I don't prioritize them over the first three or four passives listed above.
 
-## Actifs & Spécialités
-*Screenshot tiré de mon personnage sur Taiwan*
-![Skills actifs et spécialités](../images/skills-actifs.png)
+## Active Skills & Specializations { #active-skills-specializations }
+*Screenshot of my character in Taiwan.*  
+![Active skills and specializations](../images/skills-actifs.png)
 
-Probablement la partie la plus intéressante du guide concernant l'optimisation des sorts et leurs spécialités selon les différents niveaux de compétences.  
-Les niveaux maximums inscrit dans les tableaux ci-dessous représente les niveaux conseillés à atteindre pour chaque sort.  
+This is probably the most useful section of the guide for optimizing skills and their specializations at different skill levels.
+The levels shown in the tables below are the recommended targets for each skill.
 
-Chaque sort qui propose la spécialité **Changes to mobile skill** est un gameplay qui peut être propre à chacun en fonction de si vous ressentez le besoin ou non de vouloir DPS en continue en vous déplaçant sans voir votre personnage s'arrêter sur place le temps de lancer le sort.
+For skills with the **Changes to mobile skill** specialization, the choice comes down to your playstyle and whether you want to keep dealing damage while moving instead of stopping to cast.
 
-*Chaque numéro indiqué au début de chaque ligne de spécialité correspond au "numéro" correspondant à la spécialité à activer*  
+*The number at the beginning of each line indicates which specialization to activate.*
 
 ??? tip "Snipe"
-    *Sort semi-important utilisé surtout pour réduire encore plus le CD de ___Deadshot___*
+    *A useful skill, mainly for reducing ___Deadshot___'s cooldown even further.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="4">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/snipe.png" alt="Snipe" class="skill-icon" /> <strong>Snipe</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/snipe.png" alt="Snipe" class="skill-icon" /> <strong>Snipe</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**3.** +50% Multi-Hit</div></td>
@@ -102,15 +102,15 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="3">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/tempest-shot.png" alt="Tempest shot" class="skill-icon" /> <strong>Tempest shot</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/tempest-shot.png" alt="Tempest shot" class="skill-icon" /> <strong>Tempest Shot</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**3.** Deals up to 12% more damage when less targets hit</div></td>
@@ -138,20 +138,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Snare shot"
-    *Sort vous permettant de mettre un état de slow sur vos cibles, permettant de lancer le sort ___Burst arrow___*
+    *Applies **Slow** to your targets, allowing you to use ___Burst Arrow___.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="2">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/snare-shot.png" alt="Snare shot" class="skill-icon" /> <strong>Snare shot</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/snare-shot.png" alt="Snare shot" class="skill-icon" /> <strong>Snare Shot</strong></span>
           </td>
           <td>8</td>
           <td>
@@ -179,20 +179,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Marking Shot"
-    *Sort "buffer" vous octroyant le buff ___Precision___ (Precision augmente votre Critical hit de 300 et avec la première spécialité augmente de 5% votre taux de Perfect chance)*
+    *A support skill that grants the ___Precision___ buff. It increases your Critical Hit by 300 and, with the first specialization, increases your Perfect Chance by 5%.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="2">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/marking-shot.png" alt="Marking Shot" class="skill-icon" /> <strong>Marking shot</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/marking-shot.png" alt="Marking Shot" class="skill-icon" /> <strong>Marking Shot</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**1.** +5% Perfect Chance for the duration</div></td>
@@ -211,20 +211,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Drill dart"
-    *Un des premiers sort important pour le ranger à monter level 20.*
+    *One of the first important Ranger skills to raise to level 20.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="4">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/drill-dart.png" alt="Drill dart" class="skill-icon" /> <strong>Drill dart</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/drill-dart.png" alt="Drill dart" class="skill-icon" /> <strong>Drill Dart</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**3.** +20% Skill Speed</div></td>
@@ -262,20 +262,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Arrow Scattershot"
-    *Sort assez situationnel et utilisé uniquement lors des phases de Stagger de boss, en lategame c'est un sort très peu conseillé, mais personnellement j'aime bien son combo de sa spécialité level 16 avec ___Vaizel's Authority___ alors ne vous focusez pas trop à vouloir le monter level 16*
+    *A situational skill used mainly during boss Stagger phases. It's rarely recommended in the late game, but I like its level 16 specialization combo with ___Vaizel's Authority___. Don't prioritize raising it to level 16.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="3">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/arrow-scattershot.png" alt="Arrow scattershot" class="skill-icon" /> <strong>Arrow scattershot</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/arrow-scattershot.png" alt="Arrow scattershot" class="skill-icon" /> <strong>Arrow Scattershot</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**1.** Absorbs % HP <div class="specialization-choice">OU</div>**3.** Changes to mobile skill</div></td>
@@ -306,20 +306,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Gale Arrow"
-    *Un autre sort important à monter level 20*
+    *Another important skill to raise to level 20.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="4">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/gale-arrow.png" alt="Gale Arrow" class="skill-icon" /> <strong>Gale Arrow</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/gale-arrow.png" alt="Gale Arrow" class="skill-icon" /> <strong>Gale Arrow</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**3.** Changes to mobile skill</div></td>
@@ -329,7 +329,7 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
           <td>
             <div class="specialization-lines">
                 **3.** Changes to mobile skill<br>
-                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15% and PvP Damage Boost by 4.5%-7.5% dépendant inversement du nombre de cible touchés.
+                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15%, and PvP Damage Boost by 4.5%-7.5%, with the bonuses scaling inversely with the number of targets hit.
             </div>
           </td>
         </tr>
@@ -338,9 +338,9 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
           <td>
             <div class="specialization-lines">
                 **3.** Changes to mobile skill<br>
-                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15% and PvP Damage Boost by 4.5%-7.5% dépendant inversement du nombre de cible touchés.
+                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15%, and PvP Damage Boost by 4.5%-7.5%, with the bonuses scaling inversely with the number of targets hit.
               <span class="specialization-choice">OU</span>
-                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15% and PvP Damage Boost by 4.5%-7.5% dépendant inversement du nombre de cible touchés.<br>
+                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15%, and PvP Damage Boost by 4.5%-7.5%, with the bonuses scaling inversely with the number of targets hit.<br>
                 **5.** -10s cooldown
             </div>
           </td>
@@ -350,7 +350,7 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
           <td>
             <div class="specialization-lines">
                 **3.** Changes to mobile skill<br>
-                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15% and PvP Damage Boost by 4.5%-7.5% dépendant inversement du nombre de cible touchés.<br>
+                **4.** Increases Combat Speed, PvE Damage Boost by 9%-15%, and PvP Damage Boost by 4.5%-7.5%, with the bonuses scaling inversely with the number of targets hit.<br>
                 **5.** -10s cooldown
             </div>
           </td>
@@ -360,20 +360,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Explosion Trap"
-    *Sort très peu utilisé, même uniquement utilisé seulement sur des phases pour kill des trash mobs comme par exemple en transcendence car vous devez clear des mobs et vous permet éventuellement de pack les mobs touchés.*
+    *A rarely used skill, mainly reserved for trash mob clearing phases such as Transcendence. It can also help group the enemies it hits.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="2">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/explosion-trap.png" alt="Explosion Trap" class="skill-icon" /> <strong>Explosion Trap</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/explosion-trap.png" alt="Explosion Trap" class="skill-icon" /> <strong>Explosion Trap</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**1.** Pulls enemies on explosion</div></td>
@@ -392,20 +392,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Burst Arrow"
-    *Sort qui se lance uniquement sur des cibles qui sont ___Slow___ ou ___Root___ et n'est pas prioritaire à monter level 20*
+    *Can only be used on targets affected by ___Slow___ or ___Root___ and isn't a priority to raise to level 20.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="4">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/burst-arrow.png" alt="Burst Arrow" class="skill-icon" /> <strong>Burst Arrow</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/burst-arrow.png" alt="Burst Arrow" class="skill-icon" /> <strong>Burst Arrow</strong></span>
           </td>
           <td>8</td>
           <td>
@@ -452,20 +452,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Suppressing Arrow"
-    *Sort très peu utilisé en DPS et principalement utile pour son côté stun de target et uniquement utilisable lorsque vous avez le buff ___Precision___ actif*
+    *Rarely used for DPS; its main value is its stun, and it can only be used while the ___Precision___ buff is active.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="2">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/suppressing-arrow.png" alt="Suppressing Arrow" class="skill-icon" /> <strong>Suppressing Arrow</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/suppressing-arrow.png" alt="Suppressing Arrow" class="skill-icon" /> <strong>Suppressing Arrow</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**1.** +50% Multi-Hit on hit</div></td>
@@ -484,20 +484,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Deadshot"
-    *Le sort le plus important du ranger ayant 3 niveaux de charges et faisant le plus de dégâts parmis vos autres sort à votre cible, conseillez de le charger au maximum et d'avoir le buff ___Precision___ actif ajoutant des dégâts supplémentaires à votre sort si la dernière spécialité est activé.  Ce sort est constamment en top liste sur le détail de votre DPS.*
+    *The Ranger's most important skill. It has three charge levels and deals more single-target damage than your other skills. Charge it fully and try to have the ___Precision___ buff active; the final specialization adds extra damage. It consistently ranks near the top of your DPS breakdown.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="4">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/deadshot.png" alt="Deadshot" class="skill-icon" /> <strong>Deadshot</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/deadshot.png" alt="Deadshot" class="skill-icon" /> <strong>Deadshot</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**2.** +30% Skill Speed<div class="specialization-choice">OU</div>**3.** Changes to mobile skill</div></td>
@@ -538,20 +538,20 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
     </div>
 
 ??? tip "Defiance"
-    *Sort défensif vous permettant de cleanse des états comme : ___Stun___, ___Knockdown___, ___Airborne___, ___Grab___, ___Frost___ ou encore ___Fear___*
+    *A defensive skill that cleanses effects such as ___Stun___, ___Knockdown___, ___Airborne___, ___Grab___, ___Frost___, and ___Fear___.*
     <div class="skill-specialization-table">
     <table>
       <thead>
         <tr>
-          <th>Compétence</th>
-          <th>Niveau</th>
-          <th>Spécialité</th>
+          <th>Skill</th>
+          <th>Level</th>
+          <th>Specialization</th>
         </tr>
       </thead>
       <tbody>
         <tr>
           <td rowspan="3">
-            <span class="skill-cell"><img src="../assets/skills/ranger/active/defiance.png" alt="Defiance" class="skill-icon" /> <strong>Defiance</strong></span>
+            <span class="skill-cell"><img src="../../assets/skills/ranger/active/defiance.png" alt="Defiance" class="skill-icon" /> <strong>Defiance</strong></span>
           </td>
           <td>8</td>
           <td><div class="specialization-lines">**3.** Restores 20% HP on using [Defiance]</div></td>
@@ -580,6 +580,6 @@ Chaque sort qui propose la spécialité **Changes to mobile skill** est un gamep
 
 ## Stigmas
 
-Section déjà abordée dans la partie de leveling
+This section is also covered in the leveling guide.
 
-→ **[Priorité des stigmas](../leveling/index.md#stigmas)**
+→ **[Stigma priorities](../leveling/index.md#stigmas)**

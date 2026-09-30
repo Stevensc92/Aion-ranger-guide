@@ -38,6 +38,32 @@ markdown_extensions:
 plugins:
   - search
   - include-markdown
+  - i18n:
+      docs_structure: suffix
+      reconfigure_material: true
+      reconfigure_search: true
+      fallback_to_default: true
+      languages:
+        - locale: fr
+          name: Français
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: Aion 2 Ranger Guide
+          site_description: Aion 2 Ranger PvE Guide
+          nav_translations:
+            Accueil: Home
+            Leveling: Leveling
+            "Guide 1-45": "Leveling Guide 1–45"
+            Daevanion: Daevanion
+            Skills: Skills
+            "Compétences & Spécialités": "Skills & Specializations"
+            Build: Builds
+            "Builds PvE": "PvE Builds"
+            Gameplay: Gameplay
+            Macro: Macro
 
 extra_css:
   - stylesheets/extra.css
