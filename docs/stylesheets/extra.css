@@ -11,6 +11,22 @@
     vertical-align: middle !important;
 }
 
+/* Ajoute une séparation discrète entre les colonnes des tableaux de skills */
+.md-typeset .skill-specialization-table table th:not(:last-child),
+.md-typeset .skill-specialization-table table td:not(:last-child) {
+    border-right: 1px solid var(--md-typeset-table-color) !important;
+}
+
+.skill-specialization-table .specialization-lines {
+    text-align: left;
+}
+
+.skill-specialization-table .specialization-choice {
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
 /* Groupe icône + nom */
 .skill-cell {
     display: grid;

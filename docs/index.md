@@ -7,12 +7,12 @@
 
 
 !!! info "Terminologie"
-    Ce guide utilise les noms et termes **anglais** du jeu.
+    Ce guide utilise les noms et termes **anglais** du jeu mais pas de panique pour les compétences, les icônes sont là pour faciliter la reconnaisance des sorts.
 
 ## Guide
 
 - [Leveling 1-45](leveling/index.md)
-- [Daevanion](daevanion/index.md)
+- [Daevanion](leveling/daevanion.md)
 - [Skills & Spécialités](skills/index.md)
 - [Builds PvE](builds/index.md)
 - [Macro](gameplay/macro.md)
@@ -26,9 +26,15 @@ Ce guide est créé et maintenu par **Natsuro**/**Selenia**.
 Il est principalement orienté **PvE Ranger** et destiné à la version
 **Global d'Aion 2**.
 
+Plus de **2000** heures de jeu sur Taiwan, mon ranger à atteint **6354 Gear Score** pour **931K Combat Power**.  
+
 Les recommandations présentes dans ce guide sont basées sur mon expérience
 personnelle, mes tests en jeu ainsi que différentes ressources de la
 communauté Aion 2.
+
+??? note "Équipement actuel de mon ranger"
+    Petite capture "souvenir" de l'équipement de mon ranger + son build grâce au site [Shugo.gg](https://shugo.gg/character?id=DQkBJERS6s1OFPywzmRBuX5XOhPDyxILL65ABn6N2EA%3D&server=2016&region=TW&name=SeIenia){ target="_blank" } !  
+    ![Ranger Build](images/ranger-current-build.png)
 
 ### Contribuer
 

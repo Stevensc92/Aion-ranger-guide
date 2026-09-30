@@ -21,7 +21,7 @@ Pensez également à réaliser vos **donjons scellés** et **Stronghold**.
 !!! note
     Une fois votre monolithe **level 30**, ne vous attardez pas trop à ramasser les autres plumes : ce n'est pas mandatory.
 
-!!! tip "Optimisation du leveling"
+??? tip "Optimisation du leveling"
     Pour les personnes souhaitant optimiser ou accélérer un minimum le leveling, je vous suggère de mettre en place une **macro d'interaction**.
 
     Dans les options du jeu, bindez **deux touches d'interaction**. Par défaut, il y a déjà la touche `F` ; ajoutez une seconde touche, éventuellement une touche "morte" que vous n'utilisez pas.
@@ -65,12 +65,14 @@ Voici les principaux objectifs à viser :
 
 | Compétence | Niveau conseillé |
 |---|:---:|
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/snare-shot.png" class="skill-icon"> **Snare Shot**</span> | **8-12-+** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/marking-shot.png" class="skill-icon"> **Marking Shot**</span> | **8–12** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/drill-dart.png" class="skill-icon"> **Drill Dart**</span> | **8-12-+** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/gale-arrow.png" class="skill-icon"> **Gale Arrow**</span> | **8-12-+** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/burst-arrow.png" class="skill-icon"> **Burst Arrow**</span> | **8-12-+** |
-| <span class="skill-cell"><img src="../assets/skills/ranger/active/deadshot.png" class="skill-icon"> **Deadshot**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/snipe.png" alt="Snipe" class="skill-icon"> **Snipe**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/tempest-shot.png" alt="Tempest Shot" class="skill-icon"> **Tempest Shot**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/snare-shot.png" alt="Snare Shot" class="skill-icon"> **Snare Shot**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/marking-shot.png" alt="Marking Shot" class="skill-icon"> **Marking Shot**</span> | **8–12** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/drill-dart.png" alt="Drill Dart" class="skill-icon"> **Drill Dart**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/gale-arrow.png" alt="Gale Arrow" class="skill-icon"> **Gale Arrow**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/burst-arrow.png" alt="Burst Arrow" class="skill-icon"> **Burst Arrow**</span> | **8-12-+** |
+| <span class="skill-cell"><img src="../assets/skills/ranger/active/deadshot.png" alt="Deadshot" class="skill-icon"> **Deadshot**</span> | **8-12-+** |
 
 !!! tip "Marking Shot"
     **Marking Shot** peut dans un premier temps être conservé au **niveau 8**.
@@ -79,7 +81,9 @@ Voici les principaux objectifs à viser :
 
 !!! note
     Ces niveaux représentent des **objectifs pendant le leveling** et non
-    le niveau définitif conseillé pour ces compétences une fois niveau maximum.
+    le niveau définitif conseillé pour ces compétences une fois niveau maximum.  
+
+    Pour ce qui est de la partie des spécialités je vous suggère de vous rendre dans la section des compétences & spécialités qui est détaillé par niveau de compétence **[ici](../skills/index.md#actifs-specialites)**
 
 ### Compétences passives
 
@@ -89,7 +93,7 @@ toute la progression.
 Plutôt que de dupliquer les explications ici, vous pouvez retrouver les
 différents passifs ainsi que leur ordre de priorité dans la section dédiée :
 
-→ **[Priorité des compétences passives](../skills/index.md#skills-passifs)**
+→ **[Priorité des compétences passives](../skills/index.md#passifs)**
 
 ### Stigmas
 
@@ -111,9 +115,19 @@ Pour le quatrième slot vous pouvez l'adapter selon vos envies et moment (à sav
 | Compétence | Info comp. |
 |---|:---:|
 | <span class="skill-cell"><img src="../assets/skills/ranger/stigma/griffon-arrow.png" alt="Vaizel's Authority" class="skill-icon"> **Griffon Arrow**</span> | **Choix offensif/DPS**, infligeant également des dégâts sur la durée (DoT) |
+| <span class="skill-cell"><img src="../assets/skills/ranger/stigma/arrow-storm.png" alt="Arrow Storm" class="skill-icon"> **Arrow Storm**</span> | **DPS**, notamment intéressant avec **Slow**, ce sort peut s'avérer potentiellement plus intéressant qu'**Explosive Arrow** |
 | <span class="skill-cell"><img src="../assets/skills/ranger/stigma/explosive-arrow.png" alt="Explosive Arrow" class="skill-icon"> **Explosive Arrow**</span> | **DPS**, notamment intéressant avec **Slow/Root.** |
 | <span class="skill-cell"><img src="../assets/skills/ranger/stigma/ambush-kick.png" alt="Ambush Kick" class="skill-icon"> **Ambush Kick**</span> | **Mobilité/survie/repositionnement.** |
 | <span class="skill-cell"><img src="../assets/skills/ranger/stigma/mother-natures-breath.png" alt="Mother Nature's Breath" class="skill-icon"> **Mother Nature's Breath**</span> | **Défensif/survie** |
+
+!!! tip "Monter de niveau des stigmas"
+    Une fois que vous avez monté vos stigmas **level 5** vous pouvez les monter **level 10** chacun leur tour et ensuite je conseillerais d'aller chercher **Vaizel's Authority level 20** car sa spécialité au niveau 20 vous octroie une probabilité de **50%** de réduire **tout** vos CD de 1 secondes lors d'un coup critique.
+
+!!! tip "Monter un stigma level 20"
+    Sur **Taiwan** comme sur **Global**, pour monter un stigma **level 20** il faut compter **75 Stigma Shard**.  
+    *Sur taiwan les stigma shard coûte ___25.000 points___ d'abyss soit ___1.875.000___ points d'abyss au total pour les ___75 stigmas shard___. Là où sur la version Global les stigmas shard risque de coûter ___moins cher___ dans le shop abyss (aux alentours de ___10K___, donnée encore non confirmée et sera mise à jour en temps voulu).*  
+    
+    Les stigmas shard seront potentiellement obtenable via d'autre moyen, possiblement via le système de morph avec des fragments de stigma shard.
 
 ### Objectif niveau 45
 
