@@ -1,179 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/builds/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/builds/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/builds/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/builds/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/gameplay/macro/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/gameplay/macro/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/gameplay/macro/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/gameplay/macro/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/leveling/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/leveling/daevanion/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/leveling/daevanion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/leveling/daevanion/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/leveling/daevanion/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/leveling/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/leveling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/leveling/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/skills/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/skills/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/_active/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/en/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/_passive/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/en/builds/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/builds/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/builds/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/_stigma/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/en/gameplay/macro/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/gameplay/macro/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/gameplay/macro/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/arrow-scattershot/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/en/leveling/daevanion/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/leveling/daevanion/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/leveling/daevanion/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/burst-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/en/leveling/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/leveling/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/leveling/"/>
     </url>
     <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/deadshot/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/defiance/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/drill-dart/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/explosion-trap/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/gale-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/marking-shot/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/snare-shot/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/snipe/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/suppressing-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/active/tempest-shot/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/concentrated-fire/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/focused-eye/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/hunters-resolve/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/hunters-soul/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/melee-fire/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/revitalization-contract/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/rooting-eye/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/unyielding-resolve/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/vigilant-eye/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/passive/wind-vigor/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/ambush-kick/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/arrow-storm/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/assault-smite/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/bow-of-blessing/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/ensnaring-trap/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/explosive-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/griffon-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/illusory-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/mother-natures-breath/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/sealing-arrow/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/stealth/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/supporting-fire/</loc>
-         <lastmod>2026-09-27</lastmod>
-    </url>
-    <url>
-         <loc>https://stevensc92.github.io/Aion-ranger-guide/skills/stigma/vaizels-authority/</loc>
-         <lastmod>2026-09-27</lastmod>
+        <loc>https://stevensc92.github.io/Aion-ranger-guide/en/skills/</loc>
+        <lastmod>2026-09-30</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://stevensc92.github.io/Aion-ranger-guide/en/skills/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://stevensc92.github.io/Aion-ranger-guide/skills/"/>
     </url>
 </urlset>
